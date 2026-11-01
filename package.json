@@ -1,0 +1,14 @@
+{
+  "name": "serp-location-changer",
+  "version": "0.3.0",
+  "description": "SERP Location Changer & Compare browser extension for Chrome and Firefox",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "license": "GPL-3.0-only",
+  "author": "GRAVANT LABS LLC",
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "private": true
+}
